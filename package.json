@@ -13,7 +13,11 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+<<<<<<< HEAD
     "styled-components": "^5.3.11",
+=======
+    "styled-components": "^5.3.6",
+>>>>>>> 6b75ea68847c2a67da4aa2679f111c99ca9da97a
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
@@ -42,6 +46,7 @@
     ]
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@types/styled-components": "^5.1.29",
     "@typescript-eslint/eslint-plugin": "^6.9.0",
     "@typescript-eslint/parser": "^6.9.0",
@@ -51,5 +56,16 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "2.8.8"
+=======
+    "@types/styled-components": "^5.1.26",
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "eslint": "^8.34.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.4"
+>>>>>>> 6b75ea68847c2a67da4aa2679f111c99ca9da97a
   }
 }
