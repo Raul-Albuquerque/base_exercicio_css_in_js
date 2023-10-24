@@ -28,9 +28,20 @@ export const HeroForm = styled.form`
 export const HeroTitle = styled.h2`
   font-family: Gloock, serif;
   font-size: 48px;
-  color: ${(props) => props.theme.corTextoHero};
 
   @media (max-width: 768px) {
     font-size: 32px;
+  }
+`
+
+export const HeroContainer = styled.div`
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  color: ${(props) => props.theme.corTextoHero};
+
+  @media (max-width: 1024px) {
+    max-width: 80%;
   }
 `
