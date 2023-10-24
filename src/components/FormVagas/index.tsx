@@ -21,9 +21,7 @@ const FormVagas = ({ aoPesquisar }: Props) => {
         type="search"
       />
       <FormBotao type="submit">Pesquisar</FormBotao>
-      <FormBotao type="submit">
-        Pesquisar
-      </FormBotao>
+      <FormBotao type="submit">Pesquisar</FormBotao>
     </FormDasVagas>
   )
 }

@@ -1,4 +1,4 @@
-import { Vagas, VagasTitulo,  VagasLink } from './styles'
+import { Vagas, VagasTitulo, VagasLink } from './styles'
 
 type Props = {
   titulo: string
